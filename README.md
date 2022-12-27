@@ -1,3 +1,6 @@
+Gerekli kütüphaneler pyautogui
+
+pip install pyautogui
 
 fare konumunu gösteren python kodu
 
